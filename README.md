@@ -1,3 +1,3 @@
-# aerodynamics-stability-navigation-visualizer-web-app
+# aircraft-aerodynamics-stability-navigation-visualizer-web-app
 
 Built with Claude
